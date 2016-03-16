@@ -22,6 +22,8 @@
     NSLog(@"axieba李四");
     
     NSLog(@"更新");
+    
+    NSLog(@"eeeeeeee");
 }
 
 - (void)didReceiveMemoryWarning {
