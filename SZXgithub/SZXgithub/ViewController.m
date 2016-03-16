@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     NSLog(@"axiba张三");
+    
+    NSLog(@"axieba李四");
 }
 
 - (void)didReceiveMemoryWarning {
