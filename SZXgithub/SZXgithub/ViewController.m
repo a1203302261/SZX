@@ -20,6 +20,8 @@
     NSLog(@"axiba张三");
     
     NSLog(@"axieba李四");
+    
+    NSLog(@"更新");
 }
 
 - (void)didReceiveMemoryWarning {
